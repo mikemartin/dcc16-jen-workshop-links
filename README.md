@@ -17,7 +17,7 @@
 - [The Web Ahead](thewebahead.net/guest/john-allsopp)
 - [Mozilla Developer Network - CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes)
 
-# Multicolumn
+## Multicolumn
 
 - [Multicolumn Examples - Jen Simmons](http://labs.jensimmons.com/#multicolumn)
 - [Image Gallery Options - Jen Simmons](http://labs.jensimmons.com/examples/image-gallery-multicolumn.html)
@@ -28,6 +28,12 @@
 
 - [A Study of Columns and the Need for Regions, part 1 - Jen Simmons](http://labs.jensimmons.com/#regions1)
 - [A Demo of What We Could Do With Regions - Jen Simmons](http://labs.jensimmons.com/examples/regions-1i.html)
+
+## Clip Path
+
+- [Clip Path examples- Jen Simmons](http://labs.jensimmons.com/#clippath)
+- [Simple Image Crop - Jen Simmons](http://labs.jensimmons.com/examples/clip-path.html)
+- [Widehive Bluenotes Example](http://Widehive.com/artists)
 
 ## Helpful Links
 
