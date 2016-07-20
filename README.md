@@ -23,6 +23,8 @@
 - [Flex-basis W3 spec](http://www.w3.org/TR/css-flexbox-1/#flex-basis-property)
 - [Flex-basis Editor’s draft](http://drafts.csswg.org/css-flexbox)
 - [Rachel Andrew’w CSS Layout Fundamentals](https://thecssworkshop.com/courses)
+- [Flexbox Defense](http://flexboxdefense.com)
+- [Flexbox Froggy](http://flexboxfroggy.com)
 
 ## CSS Shapes
 
@@ -65,7 +67,12 @@
 
 ## Feature Queries
 
+- [Can I use Feature Queries](http://caniuse.com/#feat=css-featurequeries)
 - [Initial Letter Example - Jen Simmons](http://labs.jensimmons.com/examples/initial-letter.html)
+
+## Alignment
+
+- [CSS Box ALignment W3 spec](http://drafts.csswg.org/css-align)
 
 ## Helpful Links
 
