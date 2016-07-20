@@ -1,3 +1,5 @@
+# [Jenn Simmons Layout Workshop](http://labs.jensimmons.com/workshop)
+
 ```
           +--------------------------------------------------------+
     ^     | <html>                                                 |
@@ -11,8 +13,6 @@
   |   |         O O  o  O   O    o  O  O  o  o O     o  O  O  o O 
   -- --         | |  |  |   |    |  |  |  |  | |     |  |  |  | |
 ```
-
-[Jenn's Layout Workshop](http://labs.jensimmons.com/workshop)
 
 ## Flexbox
 
