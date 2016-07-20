@@ -1,14 +1,12 @@
-# Designing and Coding Our Layouts: The New Superpowers of CSS
-
 ```
-          +---------------------------------------+
-    ^     | <html>                                |
-  |. .|   |   <head>                              |
-    v   / |      <title>Jenn's Workshop</title>   |
-    |  /  |    </head>                            |
- /----/   |    <body>                             |
- \  |     |      <h1>The Web is Awesome</h1>      |
-  +/ \    +---------------------------------------+
+          +--------------------------------------------------------+
+    ^     | <html>                                                 |
+  |. .|   |   <head>                                               |
+    v   / |      <title>Designing and Coding Our Layouts</title>   |
+    |  /  |    </head>                                             |
+ /----/   |    <body>                                              |
+ \  |     |      <h1>The New Superpowers of CSS</h1>               |
+  +/ \    +--------------------------------------------------------+
   |   |         
   |   |         O O  o  O   O    o  O  O  o  o O
   -- --         | |  |  |   |    |  |  |  |  | |
