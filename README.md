@@ -64,6 +64,7 @@
 - [Can I use Grid Layout?](http://caniuse.com/#search=CSS%20grid)
 - [Jazz Poster example - Jen Simmons](http://labs.jensimmons.com/examples/grid-content-1.html)
 - [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
+- [Grid layout vs Flex Layout](https://drafts.csswg.org/css-grid/#intro)
 
 ## Feature Queries
 
