@@ -71,7 +71,7 @@
 
 ## Alignment
 
-- [CSS Box ALignment W3 spec](http://drafts.csswg.org/css-align)
+- [CSS Box Alignment W3 spec](http://drafts.csswg.org/css-align)
 
 ## Helpful Links
 
