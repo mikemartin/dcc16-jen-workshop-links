@@ -82,3 +82,11 @@
 - [Can I Use](http://caniuse.com)
 - Chrome Experimental Flags - chrome://flags/#enable-experimental-web-platform-features
 - Firefox Nightly Flags - about:config - search: layout.css.grid.example
+ 
+## Sass
+
+- [Gridsetapp](http://gridsetapp.com)
+- [Gridset on The Web Ahead](http://thewebahead.net/?gridset=show)
+- [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers)
+- [Compound Grid](http://gridsetapp.com/specs/gerstner)
+- [Codekit](http://www.codekit.io)
