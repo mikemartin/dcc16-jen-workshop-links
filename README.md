@@ -3,9 +3,9 @@
 ## Flexbox
 
 - [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [What the Flexbox](flexbox.io)
-- [Flex-basis W3 spec](www.w3.org/TR/css-flexbox-1/#flex-basis-property)
-- [Flex-basis Editor’s draft](drafts.csswg.org/css-flexbox)
+- [What the Flexbox](http://flexbox.io)
+- [Flex-basis W3 spec](http://www.w3.org/TR/css-flexbox-1/#flex-basis-property)
+- [Flex-basis Editor’s draft](http://drafts.csswg.org/css-flexbox)
 - [Rachel Andrew’w CSS Layout Fundamentals](https://thecssworkshop.com/courses)
 
 ## CSS Shapes
@@ -13,7 +13,7 @@
 - [CSS Shape Examples - Jen Simmons](http://labs.jensimmons.com/#shapes)
 - [CSS Shapes Editor chrome extensions](https://chrome.google.com/webstore/detail/css-shapes-editor/nenndldnbcncjmeacmnondmkkfedmgmp?hl=en-US)
 - [Adobe CSS Shapes Example](http://codepen.io/adobe/pen/KfzId)
-- [CSS Shapes](http://caniuse.com/#search=CSS%20shapes)
+- [Can I use CSS Shapes?](http://caniuse.com/#search=CSS%20shapes)
 - [The Web Ahead](thewebahead.net/guest/john-allsopp)
 - [Mozilla Developer Network - CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes)
 
@@ -34,6 +34,16 @@
 - [Clip Path examples- Jen Simmons](http://labs.jensimmons.com/#clippath)
 - [Simple Image Crop - Jen Simmons](http://labs.jensimmons.com/examples/clip-path.html)
 - [Widehive Bluenotes Example](http://Widehive.com/artists)
+
+## Viewport Height
+
+- [Cover sheet Demos](http://labs.jensimmons.com/#coversheet)
+- [Coversheet Demo 1 - Jen Simmons](http://labs.jensimmons.com/examples/coversheet-1.html)
+
+## Grid
+
+- [CSS Grid layout module W3 spec](https://drafts.csswg.org/css-grid/)
+- [Can I use Grid Layout?](http://caniuse.com/#search=CSS%20grid)
 
 ## Helpful Links
 
