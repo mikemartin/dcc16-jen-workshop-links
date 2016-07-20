@@ -83,6 +83,7 @@
 - [CSS Grid Inspector addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/css-grid-inspector/?src=category)
 - [Mondrian Art Example - Jen Simmons](http://labs.jensimmons.com/examples/mondrian-1.html)
 - [Image Gallery with Grid auto flow dense - Jen Simmons](http://labs.jensimmons.com/examples/image-gallery-grid-1.html)
+- [Get Ready for CSS Grid Layout](https://abookapart.com/products/get-ready-for-css-grid-layout)
 
 ## Helpful Links
 
