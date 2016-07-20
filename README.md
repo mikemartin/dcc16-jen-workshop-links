@@ -81,6 +81,8 @@
 - [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
 - [Grid layout vs Flex Layout](https://drafts.csswg.org/css-grid/#intro)
 - [CSS Grid Inspector addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/css-grid-inspector/?src=category)
+- [Mondrian Art Example - Jen Simmons](http://labs.jensimmons.com/examples/mondrian-1.html)
+- [Image Gallery with Grid auto flow dense - Jen Simmons](http://labs.jensimmons.com/examples/image-gallery-grid-1.html)
 
 ## Helpful Links
 
