@@ -1,5 +1,19 @@
 # Designing and Coding Our Layouts: The New Superpowers of CSS
 
+```
+          +---------------------------------------+
+    ^     | <html>                                |
+  |. .|   |   <head>                              |
+    v   / |      <title>Jenn's Workshop</title>   |
+    |  /  |    </head>                            |
+ /----/   |    <body>                             |
+ \  |     |      <h1>The Web is Awesome</h1>      |
+  +/ \    +---------------------------------------+
+  |   |         
+  |   |         O O  o  O   O    o  O  O  o  o O
+  -- --         | |  |  |   |    |  |  |  |  | |
+```
+
 [Jenn's Layout Workshop](http://labs.jensimmons.com/workshop)
 
 ## Flexbox
