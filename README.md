@@ -52,4 +52,4 @@
 - [Firefox Nightly Builds](https://nightly.mozilla.org/)
 - [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 - [Can I Use](http://caniuse.com)
-- [Chrome Experimental Flags](chrome://flags/#enable-experimental-web-platform-features)
+- Chrome Experimental Flags - chrome://flags/#enable-experimental-web-platform-features
