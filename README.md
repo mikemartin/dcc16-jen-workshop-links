@@ -1,5 +1,7 @@
 # Designing and Coding Our Layouts: The New Superpowers of CSS
 
+[Jenn's Layout Workshop](http://labs.jensimmons.com/workshop)
+
 ## Flexbox
 
 - [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -44,6 +46,8 @@
 
 - [CSS Grid layout module W3 spec](https://drafts.csswg.org/css-grid/)
 - [Can I use Grid Layout?](http://caniuse.com/#search=CSS%20grid)
+- [Jazz Poster example - Jen Simmons](http://labs.jensimmons.com/examples/grid-content-1.html)
+- [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
 
 ## Helpful Links
 
