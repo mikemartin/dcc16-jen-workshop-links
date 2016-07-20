@@ -63,6 +63,7 @@
 - [Jazz Poster example - Jen Simmons](http://labs.jensimmons.com/examples/grid-content-1.html)
 - [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
 - [Grid layout vs Flex Layout](https://drafts.csswg.org/css-grid/#intro)
+- [CSS Grid Inspector addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/css-grid-inspector/?src=category)
 
 ## Feature Queries
 
