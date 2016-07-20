@@ -43,7 +43,7 @@
 ## CSS Regions
 
 - [A Study of Columns and the Need for Regions, part 1 - Jen Simmons](http://labs.jensimmons.com/#regions1)
-- [A Demo of What We Could Do With Regions - Jen Simmons](http://labs.jensimmons.com/examples/regions-1i.html)
+- [A Demo of What We Could Do With Regions - Jen Simmons](http://labs.jensimmons.com/examples/regions-1i.html) (only Safari Technical Preview)
 
 ## Clip Path
 
@@ -62,6 +62,10 @@
 - [Can I use Grid Layout?](http://caniuse.com/#search=CSS%20grid)
 - [Jazz Poster example - Jen Simmons](http://labs.jensimmons.com/examples/grid-content-1.html)
 - [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
+
+## Feature Queries
+
+- [Initial Letter Example - Jen Simmons](http://labs.jensimmons.com/examples/initial-letter.html)
 
 ## Helpful Links
 
