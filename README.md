@@ -8,8 +8,8 @@
  \  |     |      <h1>The New Superpowers of CSS</h1>               |
   +/ \    +--------------------------------------------------------+
   |   |         
-  |   |         O O  o  O   O    o  O  O  o  o O
-  -- --         | |  |  |   |    |  |  |  |  | |
+  |   |         O O  o  O   O    o  O  O  o  o O     o  O  O  o O 
+  -- --         | |  |  |   |    |  |  |  |  | |     |  |  |  | |
 ```
 
 [Jenn's Layout Workshop](http://labs.jensimmons.com/workshop)
