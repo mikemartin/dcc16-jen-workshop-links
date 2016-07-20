@@ -56,15 +56,6 @@
 - [Cover sheet Demos](http://labs.jensimmons.com/#coversheet)
 - [Coversheet Demo 1 - Jen Simmons](http://labs.jensimmons.com/examples/coversheet-1.html)
 
-## Grid
-
-- [CSS Grid layout module W3 spec](https://drafts.csswg.org/css-grid/)
-- [Can I use Grid Layout?](http://caniuse.com/#search=CSS%20grid)
-- [Jazz Poster example - Jen Simmons](http://labs.jensimmons.com/examples/grid-content-1.html)
-- [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
-- [Grid layout vs Flex Layout](https://drafts.csswg.org/css-grid/#intro)
-- [CSS Grid Inspector addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/css-grid-inspector/?src=category)
-
 ## Feature Queries
 
 - [Can I use Feature Queries](http://caniuse.com/#feat=css-featurequeries)
@@ -82,8 +73,14 @@
 - [Compound Grid](http://gridsetapp.com/specs/gerstner)
 - [Codekit](http://www.codekit.io)
 
-## Prefixes
-- [Autoprefixer](https://github.com/postcss/autoprefixer)
+## Grid
+
+- [CSS Grid layout module W3 spec](https://drafts.csswg.org/css-grid/)
+- [Can I use Grid Layout?](http://caniuse.com/#search=CSS%20grid)
+- [Jazz Poster example - Jen Simmons](http://labs.jensimmons.com/examples/grid-content-1.html)
+- [Rachel Andrew's Grid by Example](http://gridbyexample.com/)
+- [Grid layout vs Flex Layout](https://drafts.csswg.org/css-grid/#intro)
+- [CSS Grid Inspector addon for Firefox](https://addons.mozilla.org/en-US/firefox/addon/css-grid-inspector/?src=category)
 
 ## Helpful Links
 
@@ -94,4 +91,6 @@
 - [Can I Use](http://caniuse.com)
 - Chrome Experimental Flags - chrome://flags/#enable-experimental-web-platform-features
 - Firefox Nightly Flags - about:config - search: layout.css.grid.example
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+
  
