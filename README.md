@@ -97,4 +97,9 @@
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [Layout Land](http://www.layout.land/)
 
+## Talks
+
+- [Modern Layouts: Getting Out Of Our Ruts](http://jensimmons.com/presentation/modern-layouts-getting-out-our-ruts)
+- [Revolutionize Your Page: Real Art Direction on the Web](http://jensimmons.com/presentation/real-art-direction-web)
+- [Progressing Our Layouts](http://jensimmons.com/presentation/progressing-our-layouts)
  
