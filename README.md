@@ -1,4 +1,4 @@
-# [Jenn Simmons Layout Workshop](http://labs.jensimmons.com/workshop)
+# [Jen Simmons Layout Workshop](http://labs.jensimmons.com/workshop)
 
 ```
           +--------------------------------------------------------+
